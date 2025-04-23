@@ -8,7 +8,7 @@ pip install flask flask-cors numpy pandas torch transformers langchain openai
 
 ## Run Flask API
 ```
-python rag_gemini_api.py
+python rag_api_gemini.py
 ```
 
 ## Try Chatting
